@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/middleware/deviceData/index.ts"],"names":[],"mappings":";;;;;;;;;;;;AAEO,MAAM,UAAU,GAAG,CAAO,GAAY,EAAE,GAAa,EAAE,IAAkB,EAAE,EAAE;IAChF,IAAI;QACA,OAAO,CAAC,GAAG,CAAC,YAAY,CAAC,CAAC;KAC7B;IAAC,OAAO,KAAK,EAAE;QACZ,OAAO,IAAI,CAAC,KAAK,CAAC,CAAC;KACtB;AACL,CAAC,CAAA,CAAC;AANW,QAAA,UAAU,cAMrB"}

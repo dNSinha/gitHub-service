@@ -1,0 +1,8 @@
+---
+applications:
+  - name: iot-automated-glasshouse-service
+    command: npm start
+    memory: 256M
+    disk_quote: 512M
+    path: ./
+    buildpack: nodejs_buildpack_current
